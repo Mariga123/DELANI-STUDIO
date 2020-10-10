@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+header {
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 230px;
+}
+#logo {
+    padding-bottom: 30px;
+}
+#click {
+    padding-top: 200px;
+    padding-bottom: 30px;
+}
