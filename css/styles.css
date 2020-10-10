@@ -82,3 +82,45 @@ header {
 .col-md-3:hover #overlay8{
     opacity: 1;
 }
+#form {
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    border-radius: 5px;
+    color: white;
+    padding-top: 30px;
+}    
+
+#email,#name ,#subject {
+background: transparent;
+color: white;
+}
+#form h2{
+text-align: center;
+}
+#form{
+margin-top: 50px;
+}
+
+input[type=text], select, textarea {
+	width: 100%;
+	padding: 12px;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+  
+input[type=submit] {
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+}
+  
+input[type=submit]:hover {
+	background-color: #45a049;
+}
+form#formInput ::placeholder {
+    color:white;    
+}

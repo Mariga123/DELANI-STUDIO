@@ -41,7 +41,7 @@
                 the pieces you need.</p>
         </section>
         <!-- //style the what we do section in rows of three -->
-        <section class="container" id="offers">
+    <section class="container" id="offers">
             <h3><b>WHAT WE DO</b></h3>
             <div class="col-md -4">
                 <div class="design">
@@ -125,21 +125,26 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <div class="form">
-            <form action="/action_page.php">
-            <label for="uname"><b>Username</b></label>
-            <input type="text" placeholder="Enter Username" name="uname" required>
-            <label for="email"><b>Email</b></label>
-            <input type="text" placeholder="Enter Email" name="email" required>   
-          
-            <label for="subject">Subject</label>
-            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-          
-            <input type="submit" value="Submit">
+    </section>
+        <section id="form" class="container-fluid">
+            <div class="container">
+                <h2>CONTACT US</h2>
+             <form>
+                <div class="row">
+                    <div class="col col-12 col-lg-6">
+                        <input type="text" id="name" class="form-control" name="name" placeholder="Name...">
+                    </div>
+                    <div class="col col-12 col-lg-6">
+                        <input type="text" id="email" class="form-control" name="email" placeholder="Email..">
+                    </div>
+                    <div class="col col-12">
+                        <textarea id="subject" id="comment" class="form-control" name="subject"
+                            placeholder="Your message here.." style="height:200px"></textarea>
+                    </div>
+                    <input type="submit" value="Submit">
+                </div>
+    
             </form>
-          </div>
-    </div>
 </body>
 
 </html>
