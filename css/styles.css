@@ -49,12 +49,12 @@ header {
 }
 #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     bottom: 0; 
-    background:blue;
+    background:white;
     color: #f1f1f1; 
     width: 100%;
     opacity:0;
-    color: white;
-    font-size: 15px;
+    color: blue;
+    font-size: 20px;
     padding: 10px;
     text-align: center;
   }
