@@ -51,7 +51,7 @@ header {
     align-items: center;
 }
 #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
-    bottom: 0; 
+    bottom: 0;
     background:white;
     color: #f1f1f1; 
     width: 100%;
