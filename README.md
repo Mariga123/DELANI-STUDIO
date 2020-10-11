@@ -5,7 +5,7 @@
 * This is a project that displays what Delani Studio does and its landing page. Additionally, it allows users to send messages and  receive alert confirmations upon subscription to the company.
 ## Expectation of the Page
 ### landing page
-<img src="Delani Studio.jpg">
+<img src="img/ Delani Studio.jpg">
 This is the landing page of Delani Studio.
 
 ### Interface with the form
