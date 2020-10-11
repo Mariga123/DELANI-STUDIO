@@ -36,7 +36,7 @@ header {
     text-align: center;
     display: inline;
 }
-#offers p{
+.toggle{
     display: none;
 }
 .portfolio h2{ 
