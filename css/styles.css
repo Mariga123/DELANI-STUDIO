@@ -55,12 +55,12 @@ header {
     background:white;
     color: #f1f1f1; 
     width: 100%;
-    opacity:0;
+    opacity:-20;
     color: blue;
     font-size: 20px;
     padding: 10px;
     text-align: center;
-  }
+}
 .col-md-3:hover #overlay{
     opacity: 1;
 }
