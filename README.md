@@ -6,12 +6,13 @@
 ## Expectation of the Page
  This is what is entailed on Delani Studio website.
 ### Interface with the form
-<img src="img/feedback.png">
-This is the interface for the user on how to fill the form and the expected outcome.
+ <img src="img/feedback.png">
+* This is the interface for the user on how to fill the form and the expected outcome.
 
 ### Subscription Form
-<img src="img/interface form.png">
-This is a form for user to subscribe to delani studio services.
+ <img src="img/interface form.png">
+* This is a form for user to subscribe to delani studio services.
+* After filling in the form confirm your email for your subscription status. 
 
 ### To run my page on your browser,
 * Download the zip codes from my git account.
