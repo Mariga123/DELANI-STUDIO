@@ -10,7 +10,7 @@
 This is the interface for the user on how to fill the form and the expected outcome.
 
 ### Subscription Form
-<img src="img/interface.png">
+<img src="img/interface form.png">
 This is a form for user to subscribe to delani studio services.
 
 ### To run my page on your browser,
